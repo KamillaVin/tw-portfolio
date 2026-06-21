@@ -173,8 +173,8 @@ hide:
  
 
   <div class="diagram-item">
-    <a href="/assets/images/dimensions.png" target="_blank">
-      <img src="/assets/images/dimensions.png">
+    <a href="../../assets/images/dimensions.png" target="_blank">
+      <img src="../../assets/images/dimensions.png">
     </a>
     <div class="diagram-caption">
       Габаритный чертёж устройства
@@ -182,8 +182,8 @@ hide:
   </div>
 
    <div class="diagram-item">
-    <a href="/assets/images/cabinet-source.png" target="_blank">
-      <img src="/assets/images/cabinet-source.png">
+    <a href="../../assets/images/cabinet-source.png" target="_blank">
+      <img src="../../assets/images/cabinet-source.png">
     </a>
     <div class="diagram-caption">
       Схема шкафа учета электроэнергии

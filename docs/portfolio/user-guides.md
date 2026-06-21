@@ -101,7 +101,7 @@ English-language web user guide for a cloud platform for remote monitoring and u
 <a href="../../assets/pdf/dtu4x0-mqtt-guide-en.pdf"
    target="_blank"
    title="Открыть документацию">
-<img src="/assets/images/mqtt-gs-preview.png"
+<img src="../../assets/images/mqtt-gs-preview.png"
      alt="MQTT Get Started Guide for DTU4xx"
      class="project-image">
 </a>
