@@ -1,0 +1,28 @@
+site_name: Kamilla Vinokurova | TW
+
+theme:
+  name: material
+  language: ru
+  palette:
+    primary: indigo
+
+  icon:
+    logo: material/file-document-edit
+
+
+
+nav:
+  - Обо мне: index.md
+
+  - Портфолио:
+      - Руководства пользователя: portfolio/user-guides.md
+      - Datasheets и паспорта: portfolio/product-docs.md
+      - Сертификация: portfolio/certification.md
+      - Статьи и схемы: portfolio/articles-diagrams.md
+      # - Подход и процессы: portfolio/processes.md
+
+  - Контакты: contacts.md
+
+extra_css:
+  - stylesheets/extra.css
+
