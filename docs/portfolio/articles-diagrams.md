@@ -32,7 +32,7 @@ hide:
   <div class="article-preview">
     <a href="https://teleofis.ru/blog/tekhnologii/nuzhen-li-kanal-csd-v-4g-terminalakh-wrx/"
        target="_blank">
-      <img src="/assets/images/csd-wrx-art.png">
+      <img src="../../assets/images/csd-wrx-art.png">
     </a>
   </div>
 
@@ -64,7 +64,7 @@ hide:
   <div class="article-preview">
     <a href="https://teleofis.ru/blog/uchet-energoresursov/uchet-elektroenergii/gprs-modem-v-sostave-shkafa-ucheta-elektroenergii/"
        target="_blank">
-      <img src="/assets/images/cabinet-preview.png">
+      <img src="../../assets/images/cabinet-preview.png">
     </a>
   </div>
 </div>
@@ -92,7 +92,7 @@ hide:
   <div class="article-preview">
     <a href="https://adgt.cz/resources/solutions/fuel-level-monitoring-using-dtu227-data-logger/"
        target="_blank">
-      <img src="/assets/images/fuel-level-preview.png">
+      <img src="../../assets/images/fuel-level-preview.png">
     </a>
   </div>
 </div>
@@ -122,7 +122,7 @@ hide:
   <div class="article-preview">
     <a href="https://adgt.cz/resources/iot-software/iot24-cloud-monitoring-software-for-meters-and-sensors/"
        target="_blank">
-      <img src="/assets/images/iot24-art-preview.png">
+      <img src="../../assets/images/iot24-art-preview.png">
     </a>
   </div>
 </div>
@@ -135,8 +135,8 @@ hide:
 <div class="diagram-gallery">
 
   <div class="diagram-item">
-    <a href="/assets/images/rtu8xx-connection.png" target="_blank">
-      <img src="/assets/images/rtu8xx-connection.png">
+    <a href="../../assets/images/rtu8xx-connection.png" target="_blank">
+      <img src="../../assets/images/rtu8xx-connection.png">
     </a>
     <div class="diagram-caption">
       Конструктив устройства и назначение компонентов
@@ -144,8 +144,8 @@ hide:
   </div>
 
 <div class="diagram-item">
-    <a href="/assets/images/rtu602-diagram.png" target="_blank">
-      <img src="/assets/images/rtu602-diagram.png">
+    <a href="../../assets/images/rtu602-diagram.png" target="_blank">
+      <img src="../../assets/images/rtu602-diagram.png">
     </a>
     <div class="diagram-caption">
       Функциональная блок-схема устройства
@@ -153,8 +153,8 @@ hide:
   </div>
 
   <div class="diagram-item">
-    <a href="/assets/images/ds-lt7x-diagram.png" target="_blank">
-      <img src="/assets/images/ds-lt7x-diagram.png">
+    <a href="../../assets/images/ds-lt7x-diagram.png" target="_blank">
+      <img src="../../assets/images/ds-lt7x-diagram.png">
     </a>
     <div class="diagram-caption">
       Типовая схема подключения для роутера
@@ -162,8 +162,8 @@ hide:
   </div>
 
   <div class="diagram-item">
-    <a href="/assets/images/wrx1108-connection scheme-3.png" target="_blank">
-      <img src="/assets/images/wrx1108-connection scheme-3.png">
+    <a href="../../assets/images/wrx1108-connection scheme-3.png" target="_blank">
+      <img src="../../assets/images/wrx1108-connection scheme-3.png">
     </a>
     <div class="diagram-caption">
       Схема подключения через выделенный APN
