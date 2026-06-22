@@ -170,16 +170,6 @@ hide:
     </div>
   </div>
 
- 
-
-  <div class="diagram-item">
-    <a href="../../assets/images/dimensions.png" target="_blank">
-      <img src="../../assets/images/dimensions.png">
-    </a>
-    <div class="diagram-caption">
-      Габаритный чертёж устройства
-    </div>
-  </div>
 
    <div class="diagram-item">
     <a href="../../assets/images/cabinet-source.png" target="_blank">
@@ -187,6 +177,15 @@ hide:
     </a>
     <div class="diagram-caption">
       Схема шкафа учета электроэнергии
+    </div>
+  </div>
+
+  <div class="diagram-item">
+    <a href="../../assets/images/emc-er-diagram.jpg" target="_blank">
+      <img src="../../assets/images/emc-er-diagram.jpg">
+    </a>
+    <div class="diagram-caption">
+      Схема подключения для методики испытаний ЭМС
     </div>
   </div>
 
