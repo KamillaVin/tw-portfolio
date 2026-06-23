@@ -1,7 +1,7 @@
 
 .intro-block {
     display: flex;
-    gap: 40px;
+    gap: 50px;
     align-items: flex-start;
 }
 
@@ -12,7 +12,7 @@
 .profile-photo {
     width: 180px;
     border-radius: 12px;
-    margin-left: 30px;
+    margin-left: 20px;
     margin-top: 22px;
 }
 

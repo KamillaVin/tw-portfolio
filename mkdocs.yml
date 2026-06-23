@@ -12,16 +12,16 @@ theme:
 
 
 nav:
-  - Обо мне: index.md
+  - Обо мне | About: index.md
 
-  - Портфолио:
-      - Руководства пользователя: portfolio/user-guides.md
-      - Datasheets и паспорта: portfolio/product-docs.md
-      - Сертификация: portfolio/certification.md
-      - Статьи и схемы: portfolio/articles-diagrams.md
+  - Портфолио | Portfolio:
+      - Руководства пользователя | User Guides: portfolio/user-guides.md
+      - Datasheets и паспорта | Datasheets & Specifications: portfolio/product-docs.md
+      - Сертификация | Certificarion: portfolio/certification.md
+      - Статьи и схемы | Articles & Diagrams: portfolio/articles-diagrams.md
       # - Подход и процессы: portfolio/processes.md
 
-  - Контакты: contacts.md
+  - Контакты | Contacts: contacts.md
 
 extra_css:
   - stylesheets/extra.css
