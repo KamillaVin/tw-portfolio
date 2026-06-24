@@ -172,8 +172,8 @@ hide:
 
 
    <div class="diagram-item">
-    <a href="../../assets/images/cabinet-source.png" target="_blank">
-      <img src="../../assets/images/cabinet-source.png">
+    <a href="../../assets/images/cabinet-source-diagram.png" target="_blank">
+      <img src="../../assets/images/cabinet-source-diagram.png">
     </a>
     <div class="diagram-caption">
       Схема шкафа учета электроэнергии
